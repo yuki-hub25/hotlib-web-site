@@ -6,6 +6,7 @@ export default function Home() {
   return (
     <div>
       <h1>ここから始まる。</h1>
+      <h2>リクエストのテスト</h2>
       <h3>編集テスト</h3>
     </div>
   );
